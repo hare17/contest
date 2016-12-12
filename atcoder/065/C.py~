@@ -1,0 +1,15 @@
+import sys
+
+line = sys.stdin.readline().rstrip()
+
+'''
+dream
+dreamer
+erase
+eraser
+'''
+
+i = len(line)
+while i > 0:
+    if line[i] == 'r':
+        
