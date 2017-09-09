@@ -1,0 +1,9 @@
+import sys
+
+
+T = input()
+
+
+for i in range(T):
+    p = input()
+    

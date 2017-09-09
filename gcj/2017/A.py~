@@ -1,0 +1,6 @@
+import sys
+
+
+
+T = input()
+S, K = sys.stdin.readline.rstrip().split();

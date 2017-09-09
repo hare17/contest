@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+
+import sys
+
+t = input()
+
+for i in xrange(t):
+    s, k = sys.stdin.readline().rstrip().split();
+    stat = '+'
+    cnt = 0
+
+
+
+

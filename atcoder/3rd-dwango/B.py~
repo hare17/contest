@@ -1,0 +1,18 @@
+# -*- coding:utf-8 -*-
+
+# ニコニコレベル
+
+t = raw_input().strip()
+ans = 0
+dp = [0, 0]
+
+
+
+for c in t:
+    c ='25' if c =='?' else c
+    ndp = [0,0]
+    if '2' in c:
+        ndp[1] = dp[0] + 1
+    if dp[1] and '
+
+ 
